@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicEffectLight", "BasicEffectLight\BasicEffectLight.csproj", "{B9D4D4A3-1DCC-45EB-A223-CDED88AF5B0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D4D4A3-1DCC-45EB-A223-CDED88AF5B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D4D4A3-1DCC-45EB-A223-CDED88AF5B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D4D4A3-1DCC-45EB-A223-CDED88AF5B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D4D4A3-1DCC-45EB-A223-CDED88AF5B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06A5C70D-165C-454D-AC25-EF51BE1EE57A}
+	EndGlobalSection
+EndGlobal
